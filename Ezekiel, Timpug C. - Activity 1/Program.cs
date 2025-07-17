@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Wellcome to My First Program");
+Console.WriteLine("Welcome to My First Program");
 
 Console.WriteLine();
     
@@ -16,4 +16,5 @@ Console.WriteLine();
 
         double average = (num1 + num2 + num3) / 3;
         Console.WriteLine("Average: " + average );
+
 
