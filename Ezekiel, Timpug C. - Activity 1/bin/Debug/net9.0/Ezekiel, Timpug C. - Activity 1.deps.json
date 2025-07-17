@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Ezekiel, Timpug C. - Activity 1/1.0.0": {
+        "runtime": {
+          "Ezekiel, Timpug C. - Activity 1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ezekiel, Timpug C. - Activity 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
